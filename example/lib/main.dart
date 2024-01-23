@@ -28,9 +28,9 @@ class _MyHomePageState extends State<MyHomePage> {
   Map<String, PreviewData> datas = {};
 
   List<String> get urls => const [
-        'github.com/flyerhq',
-        'https://u24.gov.ua',
-        'https://twitter.com/SpaceX/status/1564975288655630338',
+        'https://links.updeed.co/share/6AYD',
+        'https://links.updeed.co/share/6AYD',
+        'https://links.updeed.co/share/6AYD',
       ];
 
   @override
